@@ -2,7 +2,7 @@
 An application that checks whether an image is blurry or not. <br>
 
 Requirements:- <br>
-&ensp Python programming language(Version 3.0 and above):<br>
+<&ensp> Python programming language(Version 3.0 and above):<br>
      &emsp 1. OpenCV library<br>
      &emsp 2. Caer library<br>
      &emsp 3. Windows operating system(Version 10 and above)<br>
